@@ -4,6 +4,7 @@ A Django + React app that ingests emission data from SAP, utility portals, and c
 
 ## Live Demo
 - **App:** https://esg-data-platform-ten.vercel.app
+- **Backend:** https://esg-data-platform.onrender.com
 - **Login:** `analyst` / `demo1234`
 
 ## Docs
@@ -13,7 +14,7 @@ A Django + React app that ingests emission data from SAP, utility portals, and c
 - [SOURCES.md](./SOURCES.md)
 
 ## Stack
-Backend: Django 5, DRF, SQLite (dev) / PostgreSQL (prod)
+Backend: Django 5, DRF, PostgreSQL (prod) / SQLite (dev)
 Frontend: React 18, Vite, Recharts, Lucide
 
 ## Local Setup
