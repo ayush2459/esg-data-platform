@@ -3,7 +3,7 @@
 A Django + React app that ingests emission data from SAP, utility portals, and corporate travel platforms, normalizes it, and surfaces a review dashboard for analysts.
 
 ## Live Demo
-- **App:** [add after deploy]
+- **App:** https://esg-data-platform-ten.vercel.app
 - **Login:** `analyst` / `demo1234`
 
 ## Docs
